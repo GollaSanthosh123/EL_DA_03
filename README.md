@@ -15,6 +15,7 @@ This project demonstrates my ability to manipulate and analyze structured data u
 - word (for editing)
 - GitHub (vers
   
+# Interview Questions
 ### 1. What is the difference between WHERE and HAVING?
 WHERE filters rows before aggregation.
 HAVING filters groups after aggregation with GROUP BY.
